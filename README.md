@@ -26,3 +26,17 @@ Run commands
 ### If you see the window below then you are set to build AMAZON 2.0!
 
 ![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
+
+
+Teach used -
+React,
+Readux
+Nextjs
+Next auth
+firebase firestore
+tailwind css
+Hero icons
+
+
+
+yarn add react-currency-formatter
