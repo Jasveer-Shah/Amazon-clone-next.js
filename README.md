@@ -22,11 +22,11 @@ Run commands
 
 3) ```yarn run dev```
 
-
+yarn add next-auth
 ### If you see the window below then you are set to build AMAZON 2.0!
 
 ![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
-
+yarn run dev   -- to run the server
 
 Teach used -
 React,
@@ -35,8 +35,10 @@ Nextjs
 Next auth
 firebase firestore
 tailwind css
-Hero icons
+Hero icons 
+react-currency-formatter 
 
 
 
 yarn add react-currency-formatter
+yarn add next-auth
